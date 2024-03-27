@@ -212,6 +212,8 @@ Ubuntu 14.04, Emacs, and Python3 language.
 ## Authors
 
 - AJADI Surprise Matthew | Github: [DRSUCCESS](https://github.com/drsuccess)
+Ziad Mohamed []
+
 ```
 
 Please note that you should replace "AirBnB_Logo.png" and "Holberton_Logo.png" with the actual URLs or paths to your logo images, if you want to display them in your Markdown document.
